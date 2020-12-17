@@ -1,0 +1,27 @@
+@import 'css_dk.css';
+header#hder {
+    width: 100vw;
+    height: 16vh;
+    background-color: #2cb84b;
+}
+
+header#hder img {
+    height: 16vh;
+}
+
+header#hder button#DN,
+header#hder button#dk {
+    float: right;
+}
+
+div#dn div.modal-content {
+    background-image: linear-gradient(to bottom right, #2eb84b, #fff);
+}
+
+div#vi div#vi_tien {
+    background: #2cb84b;
+}
+
+div#dk1 div.modal-content {
+    background-image: linear-gradient(to bottom right, #2eb84b, #fff);
+}

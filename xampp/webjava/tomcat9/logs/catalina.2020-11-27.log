@@ -1,0 +1,285 @@
+27-Nov-2020 09:39:04.429 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.40
+27-Nov-2020 09:39:04.443 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 12 2020 15:35:02 UTC
+27-Nov-2020 09:39:04.445 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.40.0
+27-Nov-2020 09:39:04.445 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+27-Nov-2020 09:39:04.445 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+27-Nov-2020 09:39:04.446 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+27-Nov-2020 09:39:04.446 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\java
+27-Nov-2020 09:39:04.446 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_261-b12
+27-Nov-2020 09:39:04.446 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+27-Nov-2020 09:39:04.446 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\webjava\tomcat9
+27-Nov-2020 09:39:04.446 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\webjava\tomcat9
+27-Nov-2020 09:39:04.462 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\webjava\tomcat9\conf\logging.properties
+27-Nov-2020 09:39:04.462 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Nov-2020 09:39:04.462 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+27-Nov-2020 09:39:04.462 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+27-Nov-2020 09:39:04.463 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+27-Nov-2020 09:39:04.463 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\webjava\tomcat9
+27-Nov-2020 09:39:04.463 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\webjava\tomcat9
+27-Nov-2020 09:39:04.464 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\webjava\tomcat9\temp
+27-Nov-2020 09:39:04.467 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [D:\java\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\hiep\Git\cmd;C:\Users\MyPC\AppData\Local\Microsoft\WindowsApps;;D:\Microsoft VS Code\bin;.]
+27-Nov-2020 09:39:04.864 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+27-Nov-2020 09:39:05.243 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1009] milliseconds
+27-Nov-2020 09:39:05.267 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Nov-2020 09:39:05.268 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.40]
+27-Nov-2020 09:39:05.273 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\webjava\tomcat9\webapps\docs]
+27-Nov-2020 09:39:05.419 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\webjava\tomcat9\webapps\docs] has finished in [145] ms
+27-Nov-2020 09:39:05.419 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\webjava\tomcat9\webapps\examples]
+27-Nov-2020 09:39:05.650 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\webjava\tomcat9\webapps\examples] has finished in [231] ms
+27-Nov-2020 09:39:05.650 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\webjava\tomcat9\webapps\host-manager]
+27-Nov-2020 09:39:05.669 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\webjava\tomcat9\webapps\host-manager] has finished in [19] ms
+27-Nov-2020 09:39:05.669 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\webjava\tomcat9\webapps\manager]
+27-Nov-2020 09:39:05.685 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\webjava\tomcat9\webapps\manager] has finished in [16] ms
+27-Nov-2020 09:39:05.686 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\webjava\tomcat9\webapps\ROOT]
+27-Nov-2020 09:39:05.698 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\webjava\tomcat9\webapps\ROOT] has finished in [12] ms
+27-Nov-2020 09:39:05.700 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+27-Nov-2020 09:39:05.705 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [461] milliseconds
+27-Nov-2020 09:39:05.709 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8005] (base port [8005] and offset [0])
+	java.net.BindException: Address already in use: JVM_Bind
+		at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+		at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+		at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+		at java.net.PlainSocketImpl.bind(Unknown Source)
+		at java.net.ServerSocket.bind(Unknown Source)
+		at java.net.ServerSocket.<init>(Unknown Source)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:584)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:864)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:810)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+		at java.lang.reflect.Method.invoke(Unknown Source)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:342)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+27-Nov-2020 09:39:05.710 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+27-Nov-2020 09:39:05.795 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+27-Nov-2020 09:39:05.812 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+27-Nov-2020 09:39:05.847 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+27-Nov-2020 09:40:06.282 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.40
+27-Nov-2020 09:40:06.283 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 12 2020 15:35:02 UTC
+27-Nov-2020 09:40:06.283 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.40.0
+27-Nov-2020 09:40:06.284 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+27-Nov-2020 09:40:06.284 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+27-Nov-2020 09:40:06.284 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+27-Nov-2020 09:40:06.284 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\java
+27-Nov-2020 09:40:06.284 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_261-b12
+27-Nov-2020 09:40:06.284 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+27-Nov-2020 09:40:06.284 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\webjava\tomcat9
+27-Nov-2020 09:40:06.285 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\webjava\tomcat9
+27-Nov-2020 09:40:06.285 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\webjava\tomcat9\conf\logging.properties
+27-Nov-2020 09:40:06.285 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Nov-2020 09:40:06.285 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+27-Nov-2020 09:40:06.285 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+27-Nov-2020 09:40:06.286 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+27-Nov-2020 09:40:06.286 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\webjava\tomcat9
+27-Nov-2020 09:40:06.286 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\webjava\tomcat9
+27-Nov-2020 09:40:06.287 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\webjava\tomcat9\temp
+27-Nov-2020 09:40:06.290 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [D:\java\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\hiep\Git\cmd;C:\Users\MyPC\AppData\Local\Microsoft\WindowsApps;;D:\Microsoft VS Code\bin;.]
+27-Nov-2020 09:40:06.482 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+27-Nov-2020 09:40:06.587 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [418] milliseconds
+27-Nov-2020 09:40:06.601 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Nov-2020 09:40:06.601 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.40]
+27-Nov-2020 09:40:06.606 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\webjava\tomcat9\webapps\docs]
+27-Nov-2020 09:40:06.733 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\webjava\tomcat9\webapps\docs] has finished in [127] ms
+27-Nov-2020 09:40:06.733 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\webjava\tomcat9\webapps\examples]
+27-Nov-2020 09:40:06.900 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\webjava\tomcat9\webapps\examples] has finished in [167] ms
+27-Nov-2020 09:40:06.900 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\webjava\tomcat9\webapps\host-manager]
+27-Nov-2020 09:40:06.918 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\webjava\tomcat9\webapps\host-manager] has finished in [18] ms
+27-Nov-2020 09:40:06.918 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\webjava\tomcat9\webapps\manager]
+27-Nov-2020 09:40:06.933 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\webjava\tomcat9\webapps\manager] has finished in [15] ms
+27-Nov-2020 09:40:06.933 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\webjava\tomcat9\webapps\ROOT]
+27-Nov-2020 09:40:06.945 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\webjava\tomcat9\webapps\ROOT] has finished in [12] ms
+27-Nov-2020 09:40:06.948 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+27-Nov-2020 09:40:06.954 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [366] milliseconds
+27-Nov-2020 09:40:06.958 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8005] (base port [8005] and offset [0])
+	java.net.BindException: Address already in use: JVM_Bind
+		at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+		at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+		at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+		at java.net.PlainSocketImpl.bind(Unknown Source)
+		at java.net.ServerSocket.bind(Unknown Source)
+		at java.net.ServerSocket.<init>(Unknown Source)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:584)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:864)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:810)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+		at java.lang.reflect.Method.invoke(Unknown Source)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:342)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+27-Nov-2020 09:40:06.959 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+27-Nov-2020 09:40:07.045 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+27-Nov-2020 09:40:07.056 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+27-Nov-2020 09:40:07.090 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+27-Nov-2020 09:40:15.657 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.40
+27-Nov-2020 09:40:15.659 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 12 2020 15:35:02 UTC
+27-Nov-2020 09:40:15.659 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.40.0
+27-Nov-2020 09:40:15.659 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+27-Nov-2020 09:40:15.659 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+27-Nov-2020 09:40:15.660 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+27-Nov-2020 09:40:15.660 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\java
+27-Nov-2020 09:40:15.660 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_261-b12
+27-Nov-2020 09:40:15.660 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+27-Nov-2020 09:40:15.660 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\webjava\tomcat9
+27-Nov-2020 09:40:15.660 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\webjava\tomcat9
+27-Nov-2020 09:40:15.661 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\webjava\tomcat9\conf\logging.properties
+27-Nov-2020 09:40:15.661 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Nov-2020 09:40:15.661 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+27-Nov-2020 09:40:15.661 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+27-Nov-2020 09:40:15.661 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+27-Nov-2020 09:40:15.661 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\webjava\tomcat9
+27-Nov-2020 09:40:15.662 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\webjava\tomcat9
+27-Nov-2020 09:40:15.662 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\webjava\tomcat9\temp
+27-Nov-2020 09:40:15.665 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [D:\java\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\hiep\Git\cmd;C:\Users\MyPC\AppData\Local\Microsoft\WindowsApps;;D:\Microsoft VS Code\bin;.]
+27-Nov-2020 09:40:15.859 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+27-Nov-2020 09:40:15.962 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [419] milliseconds
+27-Nov-2020 09:40:15.976 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Nov-2020 09:40:15.976 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.40]
+27-Nov-2020 09:40:15.981 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\webjava\tomcat9\webapps\docs]
+27-Nov-2020 09:40:16.103 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\webjava\tomcat9\webapps\docs] has finished in [121] ms
+27-Nov-2020 09:40:16.103 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\webjava\tomcat9\webapps\examples]
+27-Nov-2020 09:40:16.270 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\webjava\tomcat9\webapps\examples] has finished in [167] ms
+27-Nov-2020 09:40:16.271 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\webjava\tomcat9\webapps\host-manager]
+27-Nov-2020 09:40:16.289 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\webjava\tomcat9\webapps\host-manager] has finished in [19] ms
+27-Nov-2020 09:40:16.290 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\webjava\tomcat9\webapps\manager]
+27-Nov-2020 09:40:16.303 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\webjava\tomcat9\webapps\manager] has finished in [13] ms
+27-Nov-2020 09:40:16.303 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\webjava\tomcat9\webapps\ROOT]
+27-Nov-2020 09:40:16.314 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\webjava\tomcat9\webapps\ROOT] has finished in [11] ms
+27-Nov-2020 09:40:16.317 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+27-Nov-2020 09:40:16.323 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [360] milliseconds
+27-Nov-2020 09:40:16.326 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8005] (base port [8005] and offset [0])
+	java.net.BindException: Address already in use: JVM_Bind
+		at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+		at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+		at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+		at java.net.PlainSocketImpl.bind(Unknown Source)
+		at java.net.ServerSocket.bind(Unknown Source)
+		at java.net.ServerSocket.<init>(Unknown Source)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:584)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:864)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:810)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+		at java.lang.reflect.Method.invoke(Unknown Source)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:342)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+27-Nov-2020 09:40:16.326 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+27-Nov-2020 09:40:16.412 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+27-Nov-2020 09:40:16.423 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+27-Nov-2020 09:40:16.457 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+27-Nov-2020 09:40:19.834 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.40
+27-Nov-2020 09:40:19.836 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 12 2020 15:35:02 UTC
+27-Nov-2020 09:40:19.836 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.40.0
+27-Nov-2020 09:40:19.836 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+27-Nov-2020 09:40:19.836 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+27-Nov-2020 09:40:19.836 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+27-Nov-2020 09:40:19.836 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\java
+27-Nov-2020 09:40:19.837 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_261-b12
+27-Nov-2020 09:40:19.837 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+27-Nov-2020 09:40:19.837 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\webjava\tomcat9
+27-Nov-2020 09:40:19.837 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\webjava\tomcat9
+27-Nov-2020 09:40:19.837 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\webjava\tomcat9\conf\logging.properties
+27-Nov-2020 09:40:19.838 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Nov-2020 09:40:19.838 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+27-Nov-2020 09:40:19.838 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+27-Nov-2020 09:40:19.839 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+27-Nov-2020 09:40:19.839 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\webjava\tomcat9
+27-Nov-2020 09:40:19.839 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\webjava\tomcat9
+27-Nov-2020 09:40:19.839 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\webjava\tomcat9\temp
+27-Nov-2020 09:40:19.842 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [D:\java\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\hiep\Git\cmd;C:\Users\MyPC\AppData\Local\Microsoft\WindowsApps;;D:\Microsoft VS Code\bin;.]
+27-Nov-2020 09:40:20.037 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+27-Nov-2020 09:40:20.144 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [423] milliseconds
+27-Nov-2020 09:40:20.158 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Nov-2020 09:40:20.158 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.40]
+27-Nov-2020 09:40:20.162 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\webjava\tomcat9\webapps\docs]
+27-Nov-2020 09:40:20.289 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\webjava\tomcat9\webapps\docs] has finished in [126] ms
+27-Nov-2020 09:40:20.289 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\webjava\tomcat9\webapps\examples]
+27-Nov-2020 09:40:20.453 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\webjava\tomcat9\webapps\examples] has finished in [163] ms
+27-Nov-2020 09:40:20.453 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\webjava\tomcat9\webapps\host-manager]
+27-Nov-2020 09:40:20.469 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\webjava\tomcat9\webapps\host-manager] has finished in [16] ms
+27-Nov-2020 09:40:20.469 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\webjava\tomcat9\webapps\manager]
+27-Nov-2020 09:40:20.482 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\webjava\tomcat9\webapps\manager] has finished in [13] ms
+27-Nov-2020 09:40:20.482 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\webjava\tomcat9\webapps\ROOT]
+27-Nov-2020 09:40:20.493 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\webjava\tomcat9\webapps\ROOT] has finished in [11] ms
+27-Nov-2020 09:40:20.496 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+27-Nov-2020 09:40:20.501 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [357] milliseconds
+27-Nov-2020 09:40:20.504 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8005] (base port [8005] and offset [0])
+	java.net.BindException: Address already in use: JVM_Bind
+		at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+		at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+		at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+		at java.net.PlainSocketImpl.bind(Unknown Source)
+		at java.net.ServerSocket.bind(Unknown Source)
+		at java.net.ServerSocket.<init>(Unknown Source)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:584)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:864)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:810)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+		at java.lang.reflect.Method.invoke(Unknown Source)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:342)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+27-Nov-2020 09:40:20.506 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+27-Nov-2020 09:40:20.591 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+27-Nov-2020 09:40:20.601 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+27-Nov-2020 09:40:20.638 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+27-Nov-2020 09:40:24.953 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.40
+27-Nov-2020 09:40:24.954 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 12 2020 15:35:02 UTC
+27-Nov-2020 09:40:24.954 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.40.0
+27-Nov-2020 09:40:24.955 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+27-Nov-2020 09:40:24.955 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+27-Nov-2020 09:40:24.955 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+27-Nov-2020 09:40:24.955 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\java
+27-Nov-2020 09:40:24.955 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_261-b12
+27-Nov-2020 09:40:24.955 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+27-Nov-2020 09:40:24.956 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\webjava\tomcat9
+27-Nov-2020 09:40:24.956 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\webjava\tomcat9
+27-Nov-2020 09:40:24.956 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\webjava\tomcat9\conf\logging.properties
+27-Nov-2020 09:40:24.956 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Nov-2020 09:40:24.956 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+27-Nov-2020 09:40:24.957 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+27-Nov-2020 09:40:24.957 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+27-Nov-2020 09:40:24.957 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\webjava\tomcat9
+27-Nov-2020 09:40:24.958 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\webjava\tomcat9
+27-Nov-2020 09:40:24.958 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\webjava\tomcat9\temp
+27-Nov-2020 09:40:24.961 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [D:\java\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\hiep\Git\cmd;C:\Users\MyPC\AppData\Local\Microsoft\WindowsApps;;D:\Microsoft VS Code\bin;.]
+27-Nov-2020 09:40:25.156 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+27-Nov-2020 09:40:25.260 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [422] milliseconds
+27-Nov-2020 09:40:25.274 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Nov-2020 09:40:25.275 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.40]
+27-Nov-2020 09:40:25.279 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\webjava\tomcat9\webapps\docs]
+27-Nov-2020 09:40:25.404 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\webjava\tomcat9\webapps\docs] has finished in [125] ms
+27-Nov-2020 09:40:25.405 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\webjava\tomcat9\webapps\examples]
+27-Nov-2020 09:40:25.575 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\webjava\tomcat9\webapps\examples] has finished in [170] ms
+27-Nov-2020 09:40:25.576 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\webjava\tomcat9\webapps\host-manager]
+27-Nov-2020 09:40:25.593 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\webjava\tomcat9\webapps\host-manager] has finished in [17] ms
+27-Nov-2020 09:40:25.594 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\webjava\tomcat9\webapps\manager]
+27-Nov-2020 09:40:25.608 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\webjava\tomcat9\webapps\manager] has finished in [15] ms
+27-Nov-2020 09:40:25.608 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\webjava\tomcat9\webapps\ROOT]
+27-Nov-2020 09:40:25.618 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\webjava\tomcat9\webapps\ROOT] has finished in [10] ms
+27-Nov-2020 09:40:25.620 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+27-Nov-2020 09:40:25.625 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [364] milliseconds
+27-Nov-2020 09:40:25.629 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8005] (base port [8005] and offset [0])
+	java.net.BindException: Address already in use: JVM_Bind
+		at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+		at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+		at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+		at java.net.PlainSocketImpl.bind(Unknown Source)
+		at java.net.ServerSocket.bind(Unknown Source)
+		at java.net.ServerSocket.<init>(Unknown Source)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:584)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:864)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:810)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+		at java.lang.reflect.Method.invoke(Unknown Source)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:342)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+27-Nov-2020 09:40:25.629 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+27-Nov-2020 09:40:25.715 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+27-Nov-2020 09:40:25.726 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+27-Nov-2020 09:40:25.761 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

@@ -1,0 +1,21 @@
+nav#NAV {
+    width: 100vw;
+    height: 10vh;
+    background-color: #028c20;
+}
+
+nav#NAV ul#menu li {
+    display: inline-table;
+    background-color: #9cf8af;
+    margin-left: 0.5em;
+    margin-top: 0.5em;
+}
+
+nav#NAV ul#menu li:hover {
+    background-color: #135421;
+    transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+    -moz-transform: scale(1.3);
+    -ms-transform: scale(1.3);
+    -o-transform: scale(1.3);
+}

@@ -1,0 +1,16 @@
+ section#me_nu ul.navbar-nav {
+     position: fixed;
+     right: 0;
+     top: 30vh;
+ }
+ 
+ body img#up {
+     position: fixed;
+     bottom: 0;
+     right: 0;
+ }
+ 
+ div.container {
+     height: 60vh;
+     width: 100vw;
+ }

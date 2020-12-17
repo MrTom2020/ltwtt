@@ -1,0 +1,50 @@
+
+.wpthemeBannerPrimaryNavigation{
+	padding:0px !important;
+	border:none !important;
+}
+.wpthemeBannerPrimaryNavigation ul{
+	padding:0px !important;	
+}
+.wpthemeLayoutContainers{
+	padding:0px !important;
+}
+.wpthemeInner, .wpthemeSecondaryNav{
+	width:100% !important;
+}
+.wpthemeCol{
+	margin:0px !important;
+}
+.wptheme1Col .wpthemeCol{
+	width:100% !important;
+}
+.wpthemeBannerInner{
+	border:none !important;
+}
+.page-category .list-none{
+	display:none;
+}
+.wpthemeCrumbTrail{
+	display:none;
+}
+.paging{
+    color: #0d79ac;
+    font-family: "effralight",Helvetica,sans-serif;
+    font-size: 1.8rem;
+    line-height: 1.3em;
+    margin: 0;
+    padding: 0 10px;
+    text-align: right;
+    width: 100%;
+}
+.paging ul li {
+    display: inline-block;
+    list-style: outside none none;
+    margin: 0 10px;
+}
+.page-details .page-wrapper .page-masthead{
+	min-height:350px;
+}
+.wpthemeHeader{
+	display:none;
+}

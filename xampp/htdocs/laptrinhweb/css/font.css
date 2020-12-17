@@ -1,0 +1,13 @@
+@font-face {
+    font-family: BrandonText-Regular;
+    src: url(../tainguyenkhac/fonts/brandontextsv/HVDFonts-.otf);
+}
+
+@font-face {
+    font-family: btx;
+    src: url(../tainguyenkhac/fonts/Roboto-BoldItalic.ttf);
+}
+
+body article pre {
+    font-family: btx;
+}

@@ -1,0 +1,7 @@
+div.container img#conlon1 {
+    position: relative;
+    height: 16vh;
+    margin-left: 300px;
+    border: none;
+    background-image: linear-gradient(to bottom right, #2eb84b, #fff);
+}

@@ -1,0 +1,51 @@
+@import 'cssheader.css';
+@import 'css_nav.css';
+@import 'css_body.css';
+@import 'css_artidle.css';
+@import 'font.css';
+@import 'css_dk.css';
+@import 'dangnhap.css';
+* {
+    text-decoration: none;
+    list-style-type: none;
+    border: none;
+    transition: all 0.3s 0.4s ease-in;
+    -webkit-transition: all 0.3s 0.4s ease-in;
+    -moz-transition: all 0.3s 0.4s ease-in;
+    -ms-transition: all 0.3s 0.4s ease-in;
+    -o-transition: all 0.3s 0.4s ease-in;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    background-color: #ffffff;
+    border: none;
+    width: 100vw;
+    height: 100vh;
+}
+
+article#btrangchu1 {
+    width: 60vw;
+    height: 60vh;
+    margin-left: 20%;
+}
+
+footer {
+    color: #ffffff;
+}
+
+article#btrangchu1 section#container div {
+    border-radius: 10%;
+    margin-top: 5%;
+    -webkit-border-radius: 10%;
+    -moz-border-radius: 10%;
+    -ms-border-radius: 10%;
+    -o-border-radius: 10%;
+}

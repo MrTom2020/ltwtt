@@ -1,0 +1,53 @@
+33
+
+4
+
+
+
+3306
+60
+0
+
+
+
+
+
+0
+30.000
+
+0
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+using_gtid=0
+do_domain_ids=0
+ignore_domain_ids=0
+END_MARKER
+2020-11-09 22:46:31 7 [Note] Initialized Master_info from 'master-2020@002d10@002d30@002015@003a22@003a07@00208@0020@005berror@005d@0020innodb@003a@0020table@0020@0060mysql@0060@002e@0060innodb_table_stats@0060@0020not@0020found@002e@000d.info'
+2020-11-09 22:46:31 7 [Note] Added new Master_info '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.' to hash table
+2020-11-09 22:46:31 7 [Note] Started replication for '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.'
+2020-11-09 22:46:31 17 [Note] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave SQL thread initialized, starting replication in log 'FIRST' at position 0, relay log '.\mysql-relay-bin-2020@002d10@002d30@002015@003a22@003a07@00208@0020@005berror@005d@0020innodb@003a@0020table@0020@0060mysql@0060@002e@0060innodb_table_stats@0060@0020not@0020found@002e@000d.000001' position: 4
+2020-11-09 22:46:31 16 [ERROR] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave I/O: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-09 22:46:31 0 [Note] Reading of all Master_info entries succeeded
+2020-11-09 22:46:31 17 [ERROR] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave SQL: Unable to load replication GTID slave state from mysql.gtid_slave_pos: Table 'mysql.gtid_slave_pos' doesn't exist in engine, Internal MariaDB error code: 1932
+2020-11-09 22:46:31 16 [Note] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave I/O thread: Start asynchronous replication to master '@:3306' in log '' at position 4
+2020-11-09 22:46:31 0 [Note] Added new Master_info '' to hash table
+2020-11-09 22:46:31 16 [ERROR] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave I/O: Fatal error: Invalid (empty) username when attempting to connect to the master server. Connection attempt terminated. Internal MariaDB error code: 1593
+2020-11-09 22:46:31 16 [Note] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave I/O thread killed while connecting to master
+2020-11-09 22:46:31 16 [Note] Master '2020-10-30 15:22:07 8 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.': Slave I/O thread exiting, read up to log 'FIRST', position 4
+2020-11-09 22:46:31 0 [Note] d:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.14-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2020-11-10  0:10:52 61 [ERROR] InnoDB: Table `mysql`.`innodb_table_stats` not found.
+2020-11-10  0:23:19 272 [ERROR] Got error 176 when reading table '.\mysql\procs_priv'
